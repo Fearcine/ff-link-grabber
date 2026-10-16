@@ -1,0 +1,16 @@
+## Build and output directories
+bin/
+obj/
+out/
+
+## Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+
+## WebView2 user data cache
+WebView2Data/
+EBWebView/
